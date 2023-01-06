@@ -1,4 +1,4 @@
-# Guide-to-the-Master-s-Project
+# Guide-to-the-Master's-Project
 This is a guide to setup the A-System-for-Standardized-Collection-of-Graduate-School-Transcripts Project
 How to run the project
 
