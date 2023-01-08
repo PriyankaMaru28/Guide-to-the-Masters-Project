@@ -6,7 +6,7 @@ If you are running project for the first time, setting up environment involves s
 
 Step 1: First Create the schema
 
-Install MySQL server from https://dev.mysql.com/downloads/workbench/
+Install MySQL server from https://dev.mysql.com/downloads/workbench/ . 
 Download the database_dump.sql from database dump from https://github.com/PriyankaMaru28/Guide-to-the-Masters-Project
 
 Open your desired host and import schema from the dump file
