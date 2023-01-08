@@ -27,7 +27,7 @@ npm install
 
 cd frontend
 
-npm install
+npm install (In case you get an error , run command : npm install --legacy-peer-deps )
 
 cd ..
 
@@ -43,9 +43,12 @@ You need to enter the details of database details that you have set up in step 1
 
 Go to backend folder in the project
 
-Then open database folder and open db.js
+Then open database folder and open db.js.
 
-Then provide the details of your database hostname, username, password and the database schema name (which was created in step1) .
+Create a .env file and add all the variables in it and then provide the details of your database hostname, username, password and the database schema name (which was created in step1) .
+
+Step 7 : Assign the axios variable
+ Go to Frontend folder and create the .env file and assign the axios link to "http://localhost:1000"
 
 Step 7 : Run the program
 
