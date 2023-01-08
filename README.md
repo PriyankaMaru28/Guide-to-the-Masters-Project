@@ -2,7 +2,7 @@
 This is a guide to setup the A System for Standardized Collection of Graduate School Transcripts Project
 How to run the project
 
-If you are running project for the first time, setting up environment involves step 1 to step 6 . If you have already set up the environment, just execute step 7.
+If you are running project for the first time, setting up environment involves step 1 to step 7 . If you have already set up the environment, just execute step 8.
 
 Step 1: First Create the schema
 
@@ -50,6 +50,6 @@ Create a .env file and add all the variables in it and then provide the details 
 Step 7 : Assign the axios variable
  Go to Frontend folder and create the .env file and assign the axios link to "http://localhost:1000"
 
-Step 7 : Run the program
+Step 8 : Run the program
 
 Change the location of directory to location of project and give the command "npm run dev".
