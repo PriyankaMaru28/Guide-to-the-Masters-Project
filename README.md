@@ -1,5 +1,5 @@
 # Guide-to-the-Masters-Project
-This is a guide to setup the A-System-for-Standardized-Collection-of-Graduate-School-Transcripts Project
+This is a guide to setup the A System for Standardized Collection of Graduate School Transcripts Project
 How to run the project
 
 If you are running project for the first time, setting up environment involves step 1 to step 6 If you have already set up the environment, just implement step 7
@@ -7,7 +7,7 @@ If you are running project for the first time, setting up environment involves s
 Step 1: First Create the schema
 
 Install MySQL server is installed
-Download the dump.sql from database dump from https://github.com/yaminikosaraju/Guide-for-Project
+Download the dump.sql from database dump from https://github.com/PriyankaMaru28/Guide-to-the-Masters-Project/tree/main/Database%20Dump
 Open your desired host and import schema from the dump file
 
 Step 2 : Install node in local computer
