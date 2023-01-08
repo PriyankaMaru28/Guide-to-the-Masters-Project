@@ -20,21 +20,32 @@ Step 4 : Download the project Download the project from Github https://github.co
 
 Step 5 : Install node modules inside the project
 
-Open command prompt and change the directory to the location of the project Then run the following commands
+Open command prompt and change the directory to the location of the project . Then run the following commands :
+
 npm install
+
 cd frontend
+
 npm install
+
 cd ..
+
 cd backend
+
 npm install
+
 cd ..
 
 Step 6 : Change the database credentials
+
 You need to enter the details of database details that you have set up in step 1
+
 Go to backend folder in the project
+
 Then open database folder and open db.js
+
 Then provide the details of your database hostname, username, password and the database schema name (which was created in step1) .
 
 Step 7 : Run the program
-Change the location of directory to location of project
-give command "npm run dev"
+
+Change the location of directory to location of project and give the command "npm run dev".
